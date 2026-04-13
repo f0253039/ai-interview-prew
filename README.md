@@ -1,2 +1,2 @@
 # ai-interview-prew
-my preparation repo for AI and software engineering interviews.
+This repository is for my Python, algorithms, machine learning, and interview preparation practice.
